@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: 叶落
+subtitle: 叶落的叶，叶落的落
+description: 叶落的静态博客，随便记录一下
+keywords: yeluo.net,叶落，yeluo
+author: Yealo
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: simpleblock
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
