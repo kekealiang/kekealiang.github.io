@@ -1,5 +1,5 @@
 ---
-title: 入手《暗黑2重置版》
+title: 暗黑2重置版辅助软件
 permalink: 
 cover: 
 updated: 2022-05-03 10:00:16
