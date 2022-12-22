@@ -1,8 +1,8 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![Hexo Logo](https://s2.loli.net/2022/12/21/MQgymZ8rwVBl1ap.png)
 
-# Hexo Example
+# 由hexo驱动的静态博客-叶落
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+原来博客是由https://jingtaiboke.com 直接编辑发布的。目前网站部署已暂停，希望能早日恢复使用。
 
 ## Deploy Your Own
 
